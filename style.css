@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    background: linear-gradient(to bottom, white, #4169E1);
+    color: white;
+
+}
+.header{
+padding: 30px;
+text-align: center;
+
+}
+.h1{
+    font-size: 50px;
+}
+.topnav{
+    
+    overflow: hidden;
+}
+.topnav a{
+    float: left;
+    margin-left: 10px;
+}
+
+.topnav a:hover{
+
+color:#FFA07A;
+}
+
+img1{
+    width: 100px;
+    height: 100px;
+}
+img2{
+    width: 100px;
+    height: 100px;
+}
+footer{
+    padding: 10px;
+    text-align: center;
+    background-color: #4169E1;
+    color: #FFA07A;
+}
+footer span {
+    font-size: 30px;
+    font-style: italic;
+
+  }
+
